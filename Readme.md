@@ -36,6 +36,7 @@
   4. [ Работа с датами. ООП](./src/php/lesson_4.md)
   5. [ ООП. MVC. Composer](./src/php/lesson_5.md)
   6. [ ООП + PDO](./src/php/lesson_6.md)
+  6. [ Работа с файлами](./src/php/lesson_7.md)
 
 
 
