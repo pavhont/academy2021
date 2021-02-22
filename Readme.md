@@ -29,7 +29,7 @@
   4. [ Объединения таблиц](./src/mysql/lesson_4.md)
   5. [ Анализ данных](./src/mysql/lesson_5.md)
   
-- PHP
+- PHP (8 занятий + 1 занятие контрольная)
   1. [ Введение в PHP](./src/php/lesson_1.md)
   2. [ Функции](./src/php/lesson_2.md)
   3. [ Массивы](./src/php/lesson_3.md)
@@ -38,6 +38,9 @@
   6. [ ООП + PDO](./src/php/lesson_6.md)
   7. [ Работа с файлами](./src/php/lesson_7.md)
   8. [ Работа с сессиями](./src/php/lesson_8.md)
+
+- Vue
+  1. [ Введение во Vue JS](./src/vue/lesson_1.md)
 
 
 
