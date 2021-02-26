@@ -8,7 +8,7 @@
 
 ## Домашнее задание
 
-https://drive.google.com/file/d/1ZolVjeYd-j8SGHGFB-Up1qffUDRhjQmG/view?usp=sharing
+https://drive.google.com/file/d/1Mg5d2xQ4gUw92o-ln1Uj6NiVU30FxtNE/view?usp=sharing
 
 
 ## Полезные ссылки
