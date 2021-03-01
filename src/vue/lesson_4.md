@@ -17,7 +17,7 @@
 ## Полезные ссылки
 
 - Style Guide https://v3.vuejs.org/style-guide/#style-guide
-- Custom Directives https://v3.vuejs.org/style-guide/#style-guide
+- Custom Directives https://v3.vuejs.org/guide/custom-directive.html#custom-directives
 - Mixins https://v3.vuejs.org/guide/mixins.html
 
 
