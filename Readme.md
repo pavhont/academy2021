@@ -43,6 +43,7 @@
   1. [ Введение во Vue JS](./src/vue/lesson_1.md)
   2. [ Основы Vue.js. Введение во Vue CLI](./src/vue/lesson_2.md)
   3. [ Компоненты](./src/vue/lesson_3.md)
+  4. [ Директивы. Примеси](./src/vue/lesson_4.md)
 
 
 
