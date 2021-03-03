@@ -44,6 +44,7 @@
   2. [ Основы Vue.js. Введение во Vue CLI](./src/vue/lesson_2.md)
   3. [ Компоненты](./src/vue/lesson_3.md)
   4. [ Директивы. Примеси](./src/vue/lesson_4.md)
+  5. [ Vue Router](./src/vue/lesson_5.md)
 
 
 
