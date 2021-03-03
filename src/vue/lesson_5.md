@@ -3,7 +3,7 @@
 
 ## Основной теоретический материал	
 
-- Презентация: Vue Router - 
+- Презентация: Vue Router - https://drive.google.com/file/d/194VfqmQYgPmidTzUbzqSSb1voFk5ox1j/view?usp=sharing
 
 
 ## Домашнее задание
