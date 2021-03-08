@@ -46,6 +46,7 @@
   4. [ Директивы. Примеси](./src/vue/lesson_4.md)
   5. [ Vue Router](./src/vue/lesson_5.md)
   6. [ Vuex](./src/vue/lesson_6.md)
+  7. [ Работа с API](./src/vue/lesson_7.md)
 
 
 
