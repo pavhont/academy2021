@@ -48,6 +48,9 @@
   6. [ Vuex](./src/vue/lesson_6.md)
   7. [ Работа с API](./src/vue/lesson_7.md)
 
+- Laravel
+  1. [ Знакомство с Laravel](./src/laravel/lesson_1.md)
+
 
 
 
