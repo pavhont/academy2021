@@ -51,6 +51,7 @@
 - Laravel
   1. [ Знакомство с Laravel](./src/laravel/lesson_1.md)
   2. [ Frontend](./src/laravel/lesson_2.md)
+  2. [ Работа с БД](./src/laravel/lesson_3.md)
 
 
 
