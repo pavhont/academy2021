@@ -53,6 +53,7 @@
   2. [ Frontend](./src/laravel/lesson_2.md)
   3. [ Работа с БД](./src/laravel/lesson_3.md)
   4. [ Eloquent](./src/laravel/lesson_4.md)
+  5. [ Controllers](./src/laravel/lesson_5.md)
 
 
 
