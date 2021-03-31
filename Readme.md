@@ -54,6 +54,7 @@
   3. [ Работа с БД](./src/laravel/lesson_3.md)
   4. [ Eloquent](./src/laravel/lesson_4.md)
   5. [ Controllers](./src/laravel/lesson_5.md)
+  6. [ Аутентификация. Авторизация](./src/laravel/lesson_6.md)
 
 
 
