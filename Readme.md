@@ -55,6 +55,7 @@
   4. [ Eloquent](./src/laravel/lesson_4.md)
   5. [ Controllers](./src/laravel/lesson_5.md)
   6. [ Аутентификация. Авторизация](./src/laravel/lesson_6.md)
+  7. [ Работа с файлами](./src/laravel/lesson_7.md)
 
 
 
